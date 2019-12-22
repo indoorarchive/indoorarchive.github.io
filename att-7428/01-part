@@ -1,0 +1,6 @@
+Content-Type: text/plain;
+ name="Attached Message Part"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="Attached Message Part"
+

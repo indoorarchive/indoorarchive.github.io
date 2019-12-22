@@ -1,0 +1,6 @@
+Content-Type: image/jpeg;
+	name=photo.JPG
+Content-Disposition: inline;
+	filename=photo.JPG
+Content-Transfer-Encoding: base64
+
